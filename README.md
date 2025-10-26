@@ -1,3 +1,2 @@
 # asd
 
-printf("hello world")
